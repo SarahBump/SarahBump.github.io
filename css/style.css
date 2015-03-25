@@ -1,0 +1,50 @@
+header {
+  background-color: rgba(153,39,71,.6);
+  height: 100px;
+  width: 100%;
+  padding: 2px;
+  line-height: 48pt;
+}
+
+
+body {
+  background-image: url("citrus.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  image: url(Image-1.jpg)
+}
+
+
+
+h1 {
+  font-size: 48pt;
+  font-color: black;
+  text-align: center;
+  line-height: 100px;
+  margin: 0;
+}
+
+
+section{
+}
+
+
+div {
+  font-color: black;
+  position: relative;
+}
+
+#column1{
+  position:relative;
+  float:left;
+}
+
+#column2{
+  position:relative;
+  float:left;
+}
+
+footer{
+
+
+}
