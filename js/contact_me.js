@@ -85,5 +85,5 @@ random();
 
 //
 $(document).ready(function(){
-    window.setInterval(random, 9000);
+    window.setInterval(random, 7000);
     })
