@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33164558">
-              <caret line="156" column="146" selection-start-line="156" selection-start-column="146" selection-end-line="156" selection-end-column="146" />
+            <state vertical-scroll-proportion="0.103797466">
+              <caret line="150" column="256" selection-start-line="150" selection-start-column="256" selection-end-line="150" selection-end-column="256" />
               <folding />
             </state>
           </provider>
@@ -58,8 +58,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="90" />
-    <option name="y" value="23" />
+    <option name="x" value="-28" />
+    <option name="y" value="44" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -232,15 +232,15 @@
       <created>1492368748239</created>
       <option name="number" value="Default" />
       <updated>1492368748239</updated>
-      <workItem from="1492368749978" duration="1241000" />
+      <workItem from="1492368749978" duration="1349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1241000" />
+    <option name="totallyTimeSpent" value="1349000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="-28" y="44" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -288,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33164558">
-          <caret line="156" column="146" selection-start-line="156" selection-start-column="146" selection-end-line="156" selection-end-column="146" />
+        <state vertical-scroll-proportion="0.103797466">
+          <caret line="150" column="256" selection-start-line="150" selection-start-column="256" selection-end-line="150" selection-end-column="256" />
           <folding />
         </state>
       </provider>
