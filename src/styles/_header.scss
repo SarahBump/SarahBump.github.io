@@ -1,21 +1,22 @@
 #background {
-  background-image: url("/assets/img/finalistxl.png");
+  background-image: url("/assets/img/background.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100% !important;
   height:100vh !important;
-  // background: $main;
-  // display: flex;
-  // vertical-align: bottom;
-  // width: 100%;
-  // min-height: 100vh;
-  // background-repeat: no-repeat;
-  // background-size: cover;
-  // background-attachment: fixed;
-  // .particles-js-canvas-el {
-  //   width:100% !important;
-  //   height:100vh !important;
-  // }
+  background: $main;
+  display: flex;
+  vertical-align: bottom;
+  width: 100%;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  .particles-js-canvas-el {
+    width:100% !important;
+    height:100vh !important;
+
+}
   @media (max-width: 900px) {
     background-image: url("/assets/img/medium.png");
     background-repeat: no-repeat;
@@ -182,6 +183,6 @@ display: none;
   padding: 5px;
   background-color: #617A9B;
   color: white;
-  font-family: 'Vibur', cursive;
+  font-family: 'Pacifico', cursive;
   font-size: 26px;
 }
